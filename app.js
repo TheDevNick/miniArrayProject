@@ -1,4 +1,6 @@
-var orders = ['supreme', 'sausage', 'pepperoni'];
+let orders = ['supreme', 'sausage', 'pepperoni'];
+
+
 
 
 document.querySelector('.btn-1').addEventListener('click', function() {
